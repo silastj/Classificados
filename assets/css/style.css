@@ -1,0 +1,15 @@
+.navbar, .navbar-inverse{
+	border-radius: 0px;
+}
+.foto_item{
+	width: 150px;
+	height: 200px;
+	float:left;
+	text-align: center;
+	margin-right: 10px;
+
+}
+.foto_item img{
+	width: 130px;
+	
+}
