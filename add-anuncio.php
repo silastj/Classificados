@@ -67,7 +67,7 @@ $a->addAnuncio($titulo, $categoria, $valor, $descricao, $estado);
 	  <div class="col-lg-6">	
 		<div class="form-group">
 			<label for="valor">Valor</label>
-              <input type="number" name="valor" id="valor" class="form-control">     
+              <input type="number" name="valor" id="valor" class="form-control money">     
 		</div>
 	  </div>
 

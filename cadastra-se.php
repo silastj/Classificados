@@ -54,7 +54,7 @@
 		</div>
 		<div class="form-group">
 			<label for="telefone">Telefone</label>
-			<input type="text" class="form-control telephone" id="telefone" name="telefone" data-mask="(00) 0000-0000" data-mask-selectonfocus="true">
+			<input type="text" class="form-control telefone" id="telefone" name="telefone" data-mask="(00) 0000-0000" data-mask-selectonfocus="true">
 		</div>
 		
 		
